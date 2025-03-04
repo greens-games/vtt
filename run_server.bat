@@ -1,3 +1,2 @@
 @echo off
-call cd pages
-call emrun main.html
+call emrun index.html
